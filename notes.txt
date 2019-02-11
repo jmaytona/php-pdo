@@ -1,0 +1,4 @@
+Main PDO Classes
+* PDO - Represents a connection between PHP and DB
+* PDOStatement - Represents a prepared statement and after executed an associated result
+* PDOException - Represents errors raised by PDO
